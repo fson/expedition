@@ -1,0 +1,17 @@
+{
+  "name": "expedition",
+  "version": "0.0.0",
+  "description": "Offline web browser: download pages and then view them without internet connection",
+  "author": null,
+  "private": true,
+  "license": "MIT",
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "@expo/vector-icons": "^5.1.0",
+    "Base64": "^1.0.1",
+    "expo": "20.0.0-alpha.7",
+    "react": "16.0.0-alpha.12",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-20.0.0.tar.gz",
+    "react-navigation": "^1.0.0-beta.11"
+  }
+}
